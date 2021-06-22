@@ -23,13 +23,14 @@ pip install -r requirements.txt
 ## Usage
 <p align="left">
 Edit QLabels text before using it in your projects
-<p align="center">
+<p align="left">
 How it looks:
 </p>
 
-<br>
-
+<p align="center">
 <img align="center" src="https://i.imgur.com/PjlJRHp.gif" alt="N|Solid" style="zoom: 67%;" />
+</p>
+
 
 
 
