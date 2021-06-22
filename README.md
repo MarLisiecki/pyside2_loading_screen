@@ -26,7 +26,11 @@ Edit QLabels text before using it in your projects
 <p align="center">
 How it looks:
 </p>
+
+<br>
+
 <img align="center" src="https://i.imgur.com/PjlJRHp.gif" alt="N|Solid" style="zoom: 67%;" />
+
 
 
 
